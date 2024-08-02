@@ -21,9 +21,9 @@ As dataset Retailrocket recommender system dataset from kaggle was used. Link to
   * Finding Similar Items Using Annoy
 
 ### Requirements
-%pip install pandas
-%pip install scikit-learn
-%pip install scipy
-%pip install numpy
-%pip install matplotlib
-%pip install annoy
+* %pip install pandas
+* %pip install scikit-learn
+* %pip install scipy
+* %pip install numpy
+* %pip install matplotlib
+* %pip install annoy
